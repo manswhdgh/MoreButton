@@ -1,6 +1,3 @@
---Description--
-AJAX XMLHttpRequest Library
-
 --Environment--
 Node Version : 20.12.2
 Npm(Npx) Version : 10.5.0
