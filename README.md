@@ -13,7 +13,7 @@ include package.json
 npm install
 
 --Usage--
-    
+   add class '.moreAndMore' div, tr, td.... 
 
 Development Guide
 
